@@ -1,0 +1,66 @@
+# Flavorium Restaurant Website
+
+Welcome to Flavorium - a culinary haven where flavors come alive! Explore our diverse menu, crafted with passion and creativity. From mouth-watering pizzas to sizzling hot dogs, every dish tells a story. Join us on a gastronomic journey and create unforgettable moments at Flavorium.
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Getting Started](#getting-started)
+4. [Menu](#menu)
+5. [Testimonials](#testimonials)
+6. [Contact](#contact)
+7. [Footer](#footer)
+
+## Introduction
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags and title -->
+    <!-- Stylesheets and Fonts -->
+    <!-- Favicon links -->
+</head>
+<body>
+    <!-- Navbar -->
+    <!-- Hero Section -->
+    <!-- About Us Section -->
+    <!-- Restaurant Menu -->
+    <!-- Testimonial Section -->
+    <!-- Contact Section -->
+    <!-- Footer -->
+</body>
+</html>
+```
+
+## Features
+- Responsive and visually appealing design.
+- Easy navigation with a collapsible hamburger menu.
+- Engaging hero section to captivate visitors.
+- About us section highlighting the restaurant's story and mission.
+- Mouth-watering menu section with various categories.
+- Testimonial section showcasing customer reviews.
+- Quick links and information in the footer.
+
+## Getting Started
+1. Clone this repository.
+2. Open `main.html` in your preferred browser.
+3. Explore the Flavorium website and enjoy!
+
+## Menu
+- Categories: Pizza, Burger, Chicken, Pasta, Hot Dog, Apple Pie.
+- Each menu item includes an image, title, location, price, and order button.
+
+## Testimonials
+Discover what our customers are saying about Flavorium.
+
+## Contact
+For inquiries or reservations, visit our [Contact Page](contact-us.html).
+
+## Footer
+- About: Learn more about Flavorium's culinary artistry.
+- Our Menu: Explore our top menu categories.
+- Quick Links: Access key pages like About Us, Contact, Menu, Order, and Services.
+- Get in Touch: Find account information, support center, feedback, and suggestions.
+- Copyright: All Rights Reserved, 2024.
+
+Thank you for choosing Flavorium! Savor the experience and indulge in extraordinary flavors.
